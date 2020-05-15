@@ -1,7 +1,9 @@
 ## Index ##
 
 Amazing file for Python recap:
+change 2 in the original from cli
 
+X
 1. [Python Object Types](https://github.com/aagontuk/cheatsheets/blob/master/py_cheat.md#python-object-types)
     1. [Python Data Types](https://github.com/aagontuk/cheatsheets/blob/master/py_cheat.md#python-data-types)
     2. [Strings](https://github.com/aagontuk/cheatsheets/blob/master/py_cheat.md#strings)
